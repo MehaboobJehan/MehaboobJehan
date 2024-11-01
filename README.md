@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJMS
 - 👀 I’m interested in Data Visualiztions, Artificial Intelligence, Data Science
 - 🌱 I’m currently learning Microsoft Power BI reports Development and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Data Visualiztions, Artificila Intelligence, Data Science
+- 💞️ I’m looking to collaborate on Data Visualiztions, Artificial Intelligence, Data Science
 
 <!---
 MehaboobJehan/MehaboobJehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
